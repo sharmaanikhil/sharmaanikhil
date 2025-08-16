@@ -54,8 +54,7 @@
 <p>
   <a href="mailto:nikhils.ug22.ec@nitp.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nikhil-sharma-398876145"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/nikh9821/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://www.codechef.com/users/nikhilsug22ec"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white"></a>
+
 </p>
 
 ---
