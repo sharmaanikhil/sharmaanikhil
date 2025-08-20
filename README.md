@@ -49,12 +49,19 @@
 
 ---
 
+## 🌐 Portfolio
+
+<p align="center">
+  Visit my portfolio: <a href="https://courageous-pavlova-60c379.netlify.app/" target="_blank" rel="noopener noreferrer">https://courageous-pavlova-60c379.netlify.app/</a>
+</p>
+
+---
+
 ## 📬 Contact Me
 
 <p>
   <a href="mailto:nikhils.ug22.ec@nitp.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nikhil-sharma-398876145"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 </p>
 
 ---
@@ -62,4 +69,3 @@
 <p align="center">
   <b>Thanks for visiting! Feel free to connect 🚀</b>
 </p>
-
